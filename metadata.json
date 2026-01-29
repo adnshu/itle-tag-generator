@@ -1,0 +1,5 @@
+{
+  "name": "UniPublish AI",
+  "description": "A multi-platform video upload assistant utilizing Google Gemini to generate optimized metadata (titles, descriptions, tags) for Bilibili, Xiaohongshu, Douyin, and Kuaishou based on video content.",
+  "requestFramePermissions": []
+}
